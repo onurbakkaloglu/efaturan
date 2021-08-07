@@ -1,0 +1,753 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="carouselExampleIndicators" class="carousel slide carousel-fade carousel-dark" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        @*<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>*@
+
+    </div>
+    <div class="carousel-inner">
+        @*<div class="carousel-item active">
+            <a href="/efatura/Iletisim"><img src="~/Content/images/MedikalAfisMobilUcretsizFatura.jpg" class="d-block w-100" alt="efaturan efatura ile kolaylık"></a>
+        </div>*@
+        <div class="carousel-item active">
+            <img src="~/Content/images/ucretsizEfatura.jpg" class="d-block w-100" alt="hızlı ücretsiz kolay e-fatura">
+        </div>
+        <div class="carousel-item">
+            <img src="~/Content/images/efaturakolayliklarimobil.jpg" class="d-block w-100" alt="efaturan efatura ile kolaylık">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden"></span>
+    </button>
+
+
+
+</div>
+<div id="parallax1">
+    @*<a href="/efatura/Iletisim"><div id="parallax" class="bg-4"></div></a>*@
+    <div id="parallax" class="bg-1"></div>
+    <div id="parallax" class="bg-2"></div>
+    <div id="parallax" class="bg-3"></div>
+</div>
+<div class="video-title" data-aos="fade-down" data-aos-delay="10">
+    <video src="~/Content/efaturan.mov" width="60%" controls muted="muted" style="pointer-events:auto" autoplay="false" loop playsinline preload="none"></video>
+</div>
+
+
+
+
+<main id="main">
+
+
+
+
+    <!-- ======= Services Section ======= -->
+    <section id="e-FaturaOzellikleri" class="services">
+        <div class="container">
+
+            <div class="section-title" data-aos="zoom-out">
+                <h2>E-FATURA</h2>
+                <p>ÖZELLİKLER</p>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+
+                    <div class="icon-box" data-aos="fade-left" data-aos-delay="100" id="icon-box1">
+                        <a href="#services">
+                            <div class="icon"><i class="bi bi-bar-chart-line-fill" style="color: #e9bf06;"></i></div>
+                            <h4 class="title">Raporlama Sistemi</h4>
+                            <div id="Mydiv" style="display:none;">
+                                <ul>
+                                    <li>Cari kartlara ait Hesap ekstresi, Toplu cari raporu v.b.</li>
+                                    <li>Stok, Depo Hareketleri,Stok listeleri raporu v.b.</li>
+                                    <li>Satış raporu ve satış grafiği</li>
+                                    <li>Kar-Zarar Analizi</li>
+                                    <li>Gün Sonu Raporu</li>
+                                    <li>Toplu stok raporu ve stok hareketleri raporunu alabilme</li>
+                                    <li>Depo hareketleri raporunu alabilme</li>
+                                    <li>Toplu Cari raporu ve cari işlem raporu alabilme</li>
+
+                                </ul>
+
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4 col-md-6 mt-5 mt-md-0">
+
+                    <div class="icon-box" data-aos="fade-up" data-aos-delay="100" id="icon-box2">
+                        <a href="#services">
+                            <div class="icon"><i class="bi bi-people-fill" style="color: #e9bf06;"></i></div>
+                            <h4 class="title">Cari Kart Modülü</h4>
+                            <div id="Mydiv2" style="display:none;">
+                                <ul>
+                                    <li>Cari Hesap kartı tanımlama</li>
+                                    <li>Grup tanımlama</li>
+                                    <li>Cariye Stoklu-Stoksuz Satış</li>
+                                    <li>Cariye kasa'dan ödeme ve tahsilat yapabilme</li>
+                                    <li>Cariyi borçlandırma ve alacaklandırma işlemleri</li>
+                                    <li>Tahsilat ve ödeme makbuzu kesme</li>
+                                    <li>Cari hesap ekstresi, </li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4 col-md-12 mt-5 mt-md-0">
+
+                    <div class="icon-box" data-aos="fade-right" data-aos-delay="100" id="icon-box3">
+                        <a href="#services">
+                            <div class="icon"><i class="bi bi-columns" style="color: #e9bf06;"></i></div>
+                            <h4 class="title">Stok Takibi Modülü</h4>
+                            <div id="Mydiv3" style="display:none;">
+                                <ul>
+                                    <li>Depo tanımlama</li>
+                                    <li>Stok kartı Tanımlama</li>
+                                    <li>Barkodsuz ürünler için otomatik barkod tanımlama</li>
+                                    <li>Gramajlı ürünler için otomatik barkod tanımlama</li>
+                                    <li>Stok grubu ve birimi tanımlama</li>
+                                    <li>Stok kartlarına resim yükleme</li>
+                                    <li>Barkod etiketi basma (tekli veya toplu)</li>
+                                    <li>Depolar arası virman</li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4 col-md-6 mt-5">
+
+                    <div class="icon-box" data-aos="fade-left" data-aos-delay="200" id="icon-box4">
+                        <div class="icon"><i class="bi bi-archive-fill" style="color: #41cf2e;"></i></div>
+                        <a href="#icon-box3">
+                            <h4 class="title">Arşivleme</h4>
+                            <div id="Mydiv4" style="display:none;">
+                                <ul>
+                                    <li>Minimum 10 yıl boyunca güvenli bir şekilde arşivleyebilirsiniz.</li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
+
+
+
+
+                <div class="col-lg-4 col-md-6 mt-5">
+
+                    <div class="icon-box" data-aos="fade-up" data-aos-delay="200" id="icon-box5">
+                        <a href="#icon-box3">
+                            <div class="icon"><i class="bi bi-file-earmark-text-fill" style="color: #41cf2e;"></i></div>
+                            <h4 class="title">Taslak Hazırlama</h4>
+                            <div id="Mydiv5" style="display:none;">
+                                <ul>
+                                    <li>Tıpkı mail'lerde olduğu gibi taslak olarak hazırlayabilirsiniz.</li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4 col-md-6 mt-5">
+
+                    <div class="icon-box" data-aos="fade-right" data-aos-delay="200" id="icon-box6">
+                        <a href="#icon-box3">
+                            <div class="icon"><i class="bi bi-telegram" style="color: #41cf2e;"></i></div>
+                            <h4 class="title">Gönderme</h4>
+                            <div id="Mydiv6" style="display:none;">
+                                <ul><li>Fatura işlemlerinizi mail alma ve gönderme kolaylığında gerçekleştirebilirsiniz.</li></ul>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4 col-md-6 mt-5" style="margin: auto;" id="icon-box7">
+
+                    <div class="icon-box" data-aos="fade-up" data-aos-delay="250">
+                        <a href="#icon-box6">
+                            <div class="icon"><i class="bi bi-printer-fill" style="color: #4680ff;"></i></div>
+                            <h4 class="title">Fatura Modülü</h4>
+                            <div id="Mydiv7" style="display:none;">
+                                <ul>
+                                    <li>Alış, Satış ve İade faturası düzenleme</li>
+                                    <li>Standart ve gramajlı ürün barkod desteği</li>
+                                    <li>İrsaliyeyi fatura dönüştürme</li>
+                                    <li>Fatura makbuz basımı</li>
+                                    <li>Detaylı alış, satış ve iade faturası raporlama</li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+        </div>
+    </section><!-- End Services Section -->
+
+    @*<div class="d-none d-sm-block" style="">
+        <section id="start" class=" start .d-none .d-sm-block">
+            <img src="~/Content/images/cloud7.png" id="bulut">
+            <img src="~/Content/images/cloud13.png" id="bulut">
+            <img src="~/Content/images/cloud14.png" id="bulut">
+            <img src="~/Content/images/cloud10.png" id="cloud">
+            <img src="~/Content/images/cloud11.png" id="cloud1">
+            <img src="~/Content/images/cloud12.png" id="cloud2">
+            <img src="~/Content/images/cloud8.png" id="cloud3">
+            <img src="~/Content/images/cloud9.png" id="cloud4">
+
+
+
+        </section>
+        <script type="text/javascript">
+
+            let bulut = document.getElementById("bulut");
+            let cloud = document.getElementById("cloud");
+            let cloud1 = document.getElementById("cloud1");
+            let cloud2 = document.getElementById("cloud2");
+            let cloud3 = document.getElementById("cloud3");
+            let cloud4 = document.getElementById("cloud4");
+
+            window.addEventListener('scroll', function () {
+                var value = window.scrollY;
+
+
+                bulut.style.left = -value * 0.20 + 'px';
+                cloud.style.left = value * 0.20 + 'px';
+                cloud1.style.left = value * 0.20 + 'px';
+                cloud2.style.left = value * 0.20 + 'px';
+                cloud3.style.left = -value * 0.20 + 'px';
+                cloud4.style.left = -value * 0.20 + 'px';
+            })
+        </script>
+
+    </div>*@
+
+    <!-- ======= About Section ======= -->
+    <!-- End About Section -->
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+        <div class="container">
+
+            <ul class="nav nav-tabs row d-flex">
+                <li class="nav-item col-3" data-aos="zoom-in">
+                    <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
+                        <i class="ri-feedback-fill"></i>
+                        <h4 class="d-none d-lg-block"> E-FATURA GEÇİŞ ZORUNLULUĞU</h4>
+
+                    </a>
+                </li>
+                <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="100">
+                    <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
+                        <i class="ri-line-chart-fill"></i>
+                        <h4 class="d-none d-lg-block">E-FATURA AVANTAJLARI</h4>
+                    </a>
+                </li>
+                <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="200">
+                    <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
+                        <i class="ri-cloud-fill"></i>
+                        <h4 class="d-none d-lg-block">GÜVENLİ VERİ DEPOLAMA</h4>
+                    </a>
+                </li>
+                <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="300">
+                    <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
+                        <i class="ri-time-line"></i>
+                        <h4 class="d-none d-lg-block">TEKNİK DESTEK</h4>
+                    </a>
+                </li>
+            </ul>
+
+            <div class="tab-content" data-aos="fade-up">
+                <div class="tab-pane active show" id="tab-1">
+                    <div class="row">
+                        <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                            <h3>E-FATURA GEÇİŞ ZORUNLULUĞU-2023!</h3>
+                            <p class="font-italic">
+                                Gelir İdaresi Başkanlığı tarafından yönetilen e-fatura uygulamasında amaç tek format ve standarda göre satıcı ve alıcı arasında güvenli, zaman ve maliyet tasarrufu sağlayan bir sistem oluşturmaktır.<br><br>
+
+                                Bu nedenle Maliye Bakanlığı Gelir İdaresi Başkanlığı (GİB) tarafından, Vergi Usul Kanunu (VUK) Genel Tebliğleri ile E-fatura uygulamasına ait usul ve esas, standart ve düzenlemeler yapmıştır.
+
+                                E-fatura ile ilgili tebliğ ve diğer dokümanları aşağıda bulunan alandan inceleyebilirsiniz.
+                            </p>
+                            <ul>
+                                <li><i class="ri-check-double-line"></i> e-Faturayı İşin Profesyoneline Bırakın, Siz Keyfinize Bakın</li>
+                                <li><i class="ri-check-double-line"></i> Ücretsiz e-Faturaya Geçiş Uygulamamızla e-Faturaya Geçiş Yapın, Faturalarınızı Hızlı ve Kolayca Anında Gönderin.</li>
+
+                            </ul>
+
+                        </div>
+                        <div class="col-lg-6 order-1 order-lg-2 text-center">
+                            <img src="~/Content/images/efaturaMevzuatı.gif" alt="e-fatura geçiş zorunluluğu mevzuat" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="tab-2">
+                    <div class="row">
+                        <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                            <h3>E-FATURA AVANTAJLARI</h3>
+                            <p>
+
+                            </p>
+                            <p class="font-italic">
+
+                            </p>
+                            <ul>
+                                <li><i class="ri-check-double-line"></i>   Maliyetleriniz azalır. (Kağıt, mürekkep, zarf, postalama, arşivleme ve mutabakat vb.)</li>
+                                <li><i class="ri-check-double-line"></i> Faturalarınızı daha hızlı hazırlarsınız. Zamandan tasarruf etmiş olursunuz.</li>
+                                <li><i class="ri-check-double-line"></i>  Faturalarınızın kaybolma riski olmaz.</li>
+                                <li><i class="ri-check-double-line"></i>   Maliyetleriniz azalır. (Kağıt, mürekkep, zarf, postalama, arşivleme ve mutabakat vb.)</li>
+                                <li><i class="ri-check-double-line"></i> Faturalarınızı daha hızlı hazırlarsınız. Zamandan tasarruf etmiş olursunuz.</li>
+                                <li><i class="ri-check-double-line"></i>Faturalarınızın kaybolma riski olmaz.</li>
+                                <li><i class="ri-check-double-line"></i>   Maliyetleriniz azalır. (Kağıt, mürekkep, zarf, postalama, arşivleme ve mutabakat vb.)</li>
+                                <li><i class="ri-check-double-line"></i> Faturalarınızı daha hızlı hazırlarsınız. Zamandan tasarruf etmiş olursunuz.</li>
+                                <li><i class="ri-check-double-line"></i>  Faturalarınızın kaybolma riski olmaz.</li>
+                            </ul>
+
+                        </div>
+                        <div class="col-lg-6 order-1 order-lg-2 text-center">
+                            <img src="~/Content/images/EfaturaAvantaj.gif" alt="e-fatura avantajları" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="tab-3">
+                    <div class="row">
+                        <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                            <h3>E-Fatura programımız ile verileriniz güvende!</h3>
+                            <p>
+
+                            </p>
+                            <ul>
+                                <li><i class="ri-check-double-line"></i>Sahip olduğumuz veriler kıymetlidir ve bu veriler her geçen gün büyüme gösterir.</li>
+                                <li><i class="ri-check-double-line"></i> Sahip olduğunuz Veri hacminin artması, veri depolama ve yönetim maliyetlerinin de artması anlamına gelmemektedir.</li>
+                                <li><i class="ri-check-double-line"></i> Veri depolama çözümleri ve veri depolama birimleri sahip olduğunuz kıymetli verileri ilk andan itibaren güvenli, veri türünün sahip olduğu kodlama türüne uyumlu, hızlı ve esnek depolama çözümleri sunmalıdır.</li>
+                                <li><i class="ri-check-double-line"></i> Ayrıca, anlık büyüme gösteren, geçici süre ihtiyaç duyulan veriler bulut veri depolama ve bulut yedekleme çözümleri ile hizmet sunmaktayız.</li>
+
+                            </ul>
+
+
+                        </div>
+                        <div class="col-lg-6 order-1 order-lg-2 text-center">
+                    <img src="~/Content/images/GüvenliVeriDepolama.gif" alt="e-fatura programı güvenli veri depolama" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="tab-4">
+                    <div class="row">
+                        <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                            <h3>7/24 Teknik Destek</h3>
+                            <p>
+                                <b>  Destek için iletişim hattımız:</b>
+                            <p>+90 850 611 06 59 </p>
+
+
+
+
+
+                            </p>
+                            <ul>
+                                <li><i class="ri-check-double-line"></i>Sistem hakkında her türlü bilgi, istek ve önerilerinizi form ile bize gönderebilirsiniz. Operatörlerimiz en kısa zamanda sizinle iletişime geçecektir.</li>
+                                <li><i class="ri-check-double-line"></i>Yazılım Desteği Almak istiyorsanız</li>
+                                <li><i class="ri-check-double-line"></i>E-Faturan destek ve bağlantı sistemi, yazılım ürünleri ile ilgili ön destek almanızı sağlayan bir takip sistemdir.</li>
+                                <li><i class="ri-check-double-line"></i>Sistemden alacağınız Destek Numarası ile müşteri hizmetlerimizi arayarak destek talebinde bulanabilirsiniz.</li>
+                                <li><i class="ri-check-double-line"></i>Destek ve Bağlantı sisteminden faydalanabilmek için kredi kartı ile 150 TL ödemeniz gerekir.</li>
+
+                            </ul>
+                            <!-- End Features Section -->
+                        </div>
+                        <div class="col-lg-6 order-1 order-lg-2 text-center">
+                            <img src="~/Content/images/TeknikDestek.gif" alt="efaturan 7/24 teknik destek" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="user" class="testimonials">
+        <div class="container">
+
+            <div class="section-title" data-aos="zoom-out">
+                <h2>Yorumlar</h2>
+                <p>E-Fatura kullananlar ne söylüyorlar?</p>
+            </div>
+
+            <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
+                <div class="swiper-wrapper">
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                E-Fatura kullanarak işletmemizin maliyetleri fazlasıyla azaldı. Aynı zamanda faturaların müşteriye gönderimi için kargoya gerek kalmaz e-fatura anında müşterilere iletiliyor.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                           
+                            <h3>Onur Bakkaloğlu</h3>
+                            <h4>İşletmeci</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                E-Fatura'nın en büyük avantajı zamandan tasarruf diyebilirim. Hem daha hızlı hazırlanıyor hem de müşteriye daha hızlı iletiliyor.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+
+                            <h3>Metehan Ceyhan</h3>
+                            <h4>İşletmeci</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                E-Fatura'nın işletmemiz için en avantajlı tarafı Stok Takip Modülü oldu, bu sayede stok kontrolü basitleşti ve hzılandı.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+
+                            <h3>Derya Usta</h3>
+                            <h4>İşletmeci</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                Faturalarımız dijital ortamda arşivlendiği için kaybolma riski yok ve istediğimiz zaman eski faturalara ulaşabiliyoruz.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p> 
+                            <h3>Ferhat Sağlam</h3>
+                            <h4>İşletmeci</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                E-Fatura, kullandığımız muhasebe sistemine kolayca entegre edildi ve uyumlu şekilde çalışıyor.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>    
+                            <h3>Betül Saliha Kuzu</h3>
+                            <h4>İşletmeci</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+
+        </div>
+    </section><!-- End Testimonials Section -->
+    <!-- ======= Cta Section ======= -->
+    <section id="efaturaindir" class="cta">
+        <div class="container">
+
+            <div class="row" data-aos="zoom-out">
+                <div class="col-lg-9 text-center text-lg-start">
+                    <h3>Hemen indir!</h3>
+                    <h4>Ömür Boyu Ücretsiz Kullan</h4>
+                    <p> e-Fatura ücretsiz programı herhangi bir kısıtlama olmaksızın ömür boyu kullanabileceğiniz bir ücretsiz elektronik faturalama programıdır. Basit arayüzü sayesinde kolay kullanılabilir, çok fazla işlem karmaşası gerektirmeyen, barkod desteği ile sadece müşteri, stok ve satış işlemlerini yapabileceğiniz, yaptığınız işlemlerin detaylı raporunu alabileceğiniz bir programdır.</p>
+                </div>
+                <div class="col-lg-3 cta-btn-container text-center" data-aos="fade-down-right">
+                    <a class="cta-btn align-middle" href="~/setup/efaturan.msi"><span>ŞİMDİ İNDİR</span></a>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End Cta Section -->
+    <!-- ======= F.A.Q Section ======= -->
+    <section id="faq" class="faq">
+        <div class="container">
+
+            <div class="section-title" data-aos="zoom-out">
+                <h2>S.S.S</h2>
+                <p>Sıkça Sorulan Sorular</p>
+            </div>
+
+            <ul class="faq-list">
+
+                <li>
+                    <div data-bs-toggle="collapse" class="collapsed question" href="#faq1"> E-Fatura nedir? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq1" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            Dijital ortamda hazırlanan faturalara Elektronik Fatura (E-Fatura) denir. Kâğıda basılmayan ve internet üzerinden alıcı ve satıcıya iletilen e-fatura, ileride tüm firmalar için zorunlu hale getirilecektir.
+                        </p>
+                    </div>
+                </li>
+
+                <li>
+                    <div data-bs-toggle="collapse" href="#faq2" class="collapsed question"> E-Fatura’yı niçin kullanmalıyım?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq2" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            E-fatura kullanımında girilen faturalar anında dijital ortama kayıt edildiğinden müşteriler ve satıcılarla mutabakat yapmanız kolaylaşır. Fatura saklama iş yükü ve maliyetinden kurtulursunuz. E-faturan aracılığıyla güvenli bir şekilde fatura gönderip alarak fatura bilgilerine sistem sorgusuyla anında erişerek faturaya ilişkin bilgilerin anında kontrolünü sağlayabilirsiniz
+                        </p>
+                    </div>
+                </li>
+
+                <li>
+                    <div data-bs-toggle="collapse" href="#faq3" class="collapsed question"> Zorunluluk kapsamında değilim? Yine de e-fatura uygulamasına kendi isteğim ile dahil olabilir miyim? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq3" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            Evet. İsteğe bağlı olarak e-fatura uygulamasına dahil olmak mümkündür.
+                        </p>
+                    </div>
+                </li>
+
+                <li>
+                    <div data-bs-toggle="collapse" href="#faq4" class="collapsed question"> E-fatura uygulamasına nasıl dahil olabilirim?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq4" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            GİB’e e-fatura başvurunuzu yapıp, mali mührünüzü almanız gerekir.
+                        </p>
+                    </div>
+                </li>
+
+                <li>
+                    <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">E-faturanın çıktısını alıp yazdırmam gerekiyor mu? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq5" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            Hayır böyle bir zorunluluk yoktur. Müşterilerinize faturanızı elektronik ortamda iletirsiniz. Süreç tamamen dijital ortamda gerçekleşir.
+                        </p>
+                    </div>
+                </li>
+
+                <li>
+                    <div data-bs-toggle="collapse" href="#faq6" class="collapsed question"> E-fatura uygulamasına geçtikten sonra kâğıt fatura düzenleyemez miyim? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq6" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            E-fatura uygulamasına geçtikten sonra sisteme dahil olan firmalara e-fatura, dahil olmayan firmalara ise kağıt fatura göndermeniz gerekmektedir. Bu nedenle fatura alıcısının sisteme dahil olup olmadığının kontrolü fatura oluşturulmadan önce mükellef tarafından yapılmalıdır.
+                        </p>
+                    </div>
+                </li>
+                <li>
+                    <div data-bs-toggle="collapse" href="#faq7" class="collapsed question"> Müşterilerimin e-fatura kullanıcısı olduklarını nasıl bilirim? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq7" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            Programın satış ekranında müşterinin vergi numarası yazıldığında, fatura alıcısının sisteme dahil olup olmadığını otomatik olarak kontrol etmektedir.
+                            Bir diğer kontrol edebileceğini yer ise E-Fatura resmi sitesinde yer alan liste düzenli olarak güncellenmektedir. Listeyi buradan
+                        </p>
+                    </div>
+                </li>
+                <li>
+                    <div data-bs-toggle="collapse" href="#faq8" class="collapsed question">  E-Faturayı nasıl arşivleyeceğim? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq8" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            E-Faturaların çıktısının alınıp saklanması gibi bir yasal zorunluluğunuz bulunmamaktadır. Faturalar tamamen elektronik ortamda arşivlenir. Yine de dileyen kullanıcılar çıktılarını saklayabilir.
+                        </p>
+                    </div>
+                </li>
+                <li>
+                    <div data-bs-toggle="collapse" href="#faq9" class="collapsed question"> E-Fatura sistemi ile irsaliye hazırlayabilir miyim? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq9" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            Evet. Bunu yapabilmek için e-faturanın malın teslim edileceği tarihte düzenlenmiş olması gerekir. Gönderdiğiniz e-faturada düzenleme tarihi yanında düzenleme zamanının saat olarak gösterilmesi halinde e-faturanın kâğıt dökümü irsaliye yerine geçer. Fakat bu çıktıya “İrsaliye yerine geçer” ifadesinin yazılması ve kâğıdın kaşelenip imzalanması da gerekir.
+                        </p>
+                    </div>
+                </li>
+                <li>
+                    <div data-bs-toggle="collapse" href="#faq10" class="collapsed question"> Temel ya da Ticari Fatura Senaryosu Nedir? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                    <div id="faq10" class="collapse" data-bs-parent=".faq-list">
+                        <p>
+                            E-fatura sistemine geçtikten sonra, e-fatura ile çalışacağınız müşteri ya da tedarikçilerle temel ya da ticari fatura senaryolarından birini seçmeniz gerekiyor. Ticari Fatura Senaryosu’nda müşterinizin 7 gün içinde kabul ya da ret vermesi gerekir. Eğer vermezse faturayı kabul etmiş sayılır. Temel faturada bu şekilde bir onay süreci bulunmamaktadır.
+
+
+                        </p>
+                    </div>
+                </li>
+
+            </ul>
+
+        </div>
+    </section><!-- End F.A.Q Section -->
+
+    @model eFaturanMVC.Models.Email
+
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <section id="contact" class="contact">
+        <div class="container">
+
+            <div class="section-title" data-aos="zoom-out">
+                <h2>Daha Fazla BİLGİ İÇİN</h2>
+                <p>SİZİ ARAYALIM</p>
+            </div>
+
+            <div class="row mt-5">
+
+                <div class="col-lg-4" data-aos="fade-right">
+                    <div class="info" id="telefonlogo">
+
+
+                        <div class="phone">
+                            <i class="bi bi-phone"></i>
+                            <h4>Telefon Numaranız:</h4>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
+
+                    <form id="form1" method="post" role="form" class="php-email-form">
+
+                        <div class="form-group mt-3">
+                            <input type="text" class="form-control" name="Telefon" id="Telefon" placeholder="Telefon Numaranız" required>
+                        </div>
+
+
+
+                    </form>
+
+                </div>
+
+            </div>
+
+            <div class="row mt-5">
+
+                <div class="col-lg-4" data-aos="fade-right">
+                    <div class="info" id="emaillogo">
+
+
+                        <div class="email">
+                            <i class="bi bi-envelope"></i>
+                            <h4>Email Adresiniz:</h4>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
+
+                    <form method="post" role="form" class="php-email-form" id="form2">
+
+                        <div class="form-group mt-3">
+                            <input type="text" class="form-control" name="Mail" id="Mail" placeholder="E-Mail" required>
+                        </div>
+
+
+                    </form>
+                    <form>
+                        <button type="button" class="btn btn-success">Gönder</button>
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Contact Section -->
+
+
+</main><!-- End #main -->
+
+@section MailScript{
+    <script>
+        $("form button.btn").on("click", function () {
+
+            let mail = {
+                "Telefon": $("input#Telefon").val(),
+                "Mail": $("input#Mail").val(),
+                "Konu": $("input#Konu").val(),
+                "Mesaj": $("textarea#Mesaj").val(),
+            };
+
+            toastr.success("Başarıyla mail gönderdiniz.")
+            $.ajax({
+                url: "@Url.Action("Index","efatura")",
+                type: "post",
+                dataType: "JSON",
+                data: mail,
+                success: function (res) {
+                    console.log(res)
+                    if (res.IsSuccess) {
+
+                    } else { }
+                    for (var i = 0; i < 5; i++) {
+                        $("form")[i].reset()
+                    }
+
+                },
+                error: function () {
+
+                }
+            });
+
+            return false;
+        })
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $("#icon-box1,#icon-box2,#icon-box3").click(function () {
+                $("#Mydiv").toggle(500);
+                $("#Mydiv2").toggle(500);
+                $("#Mydiv3").toggle(500);
+            });
+        });
+
+        //$(function () {
+        //    alert("asd")
+        //    $(".icon-box").click(function () {
+        //        console.log("rwar")
+        //        $(this).find(".Mydiv").toggle(1000);
+        //    });
+        //})
+
+        
+
+
+        $(document).ready(function () {
+            $("#icon-box4,#icon-box5,#icon-box6").click(function () {
+                $("#Mydiv4").toggle(500);
+                $("#Mydiv5").toggle(500);
+                $("#Mydiv6").toggle(500);
+            });
+        });
+
+        $(document).ready(function () {
+            $("#icon-box7").click(function () {
+                $("#Mydiv7").toggle(500);
+            });
+        });
+    </script>
+}
+@*<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>*@

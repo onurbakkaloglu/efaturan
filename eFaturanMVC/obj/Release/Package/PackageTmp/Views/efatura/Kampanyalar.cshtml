@@ -1,0 +1,162 @@
+﻿
+@{
+    ViewBag.Title = "Kampanyalar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main id="main">
+
+
+    <div style="width:100%;background-size:cover">
+        <img src="~/Content/images/efaturaKampanya.png" alt="efaturan efatura kampanyaları" style="width:100%">
+    </div>
+    
+
+    <div class="container">
+        <div class="kampanya-aciklama">
+            <p>Açıklamalar:</p>
+        </div>
+        <div class="list">
+            <ul>
+                <li>Fiyatlara KDV dahil değildir.</li>
+                <li>Fiyatlar 1 yıllık sözleşme için geçerlidir.</li>
+                <li>Fiyatlara saklama ücreti dahildir.</li>
+                <li>Faturalandırma paket türüne göre aylık veya yıllık periyodlarla yapılmaktadır.</li>
+                <li>Fatura adetleri üst limit olarak belirlenmiş olup limitlerin aşılması halinde ilave birim fiyat ile ücretlendirilir.</li>
+            </ul>
+        </div>
+    </div>
+
+
+    <section id="indir" class="kampanya-btn">
+
+        <div class="cta-btn-container text-center" data-aos="fade-down-right">
+            <a class="cta-btn align-middle" href="/setup/efaturan.msi"><span>ŞİMDİ İNDİR</span></a>
+        </div>
+
+    </section><!-- End Cta Section -->
+
+
+
+    @model eFaturanMVC.Models.Email
+
+
+
+    <section id="contact" class="contact">
+        <div class="container">
+
+            <div class="section-title" data-aos="zoom-out">
+                <h2>Daha Fazla BİLGİ İÇİN</h2>
+                <p>SİZİ ARAYALIM</p>
+            </div>
+
+            <div class="row mt-5">
+
+                <div class="col-lg-4" data-aos="fade-right">
+                    <div class="info" id="telefonlogo">
+
+
+                        <div class="phone">
+                            <i class="bi bi-phone"></i>
+                            <h4>Telefon Numaranız:</h4>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
+
+                    <form id="form1" method="post" role="form" class="php-email-form">
+
+                        <div class="form-group mt-3">
+                            <input type="text" class="form-control" name="Telefon" id="Telefon" placeholder="Telefon Numaranız" required>
+                        </div>
+
+
+
+                    </form>
+
+                </div>
+
+            </div>
+
+            <div class="row mt-5">
+
+                <div class="col-lg-4" data-aos="fade-right">
+                    <div class="info" id="emaillogo">
+
+
+                        <div class="email">
+                            <i class="bi bi-envelope"></i>
+                            <h4>Email Adresiniz:</h4>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
+
+                    <form method="post" role="form" class="php-email-form" id="form2">
+
+                        <div class="form-group mt-3">
+                            <input type="text" class="form-control" name="Mail" id="Mail" placeholder="E-Mail" required>
+                        </div>
+
+
+                    </form>
+                    <form>
+                        <button type="button" class="btn btn-success">Gönder</button>
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Contact Section -->
+
+
+
+
+
+</main>
+@section MailScript{
+    <script>
+        $("form button.btn").on("click", function () {
+
+            let mail = {
+                "Telefon": $("input#Telefon").val(),
+                "Mail": $("input#Mail").val(),
+                "Konu": $("input#Konu").val(),
+                "Mesaj": $("textarea#Mesaj").val(),
+            };
+
+            toastr.success("Başarıyla mail gönderdiniz.")
+            $.ajax({
+                url: "@Url.Action("Index","efatura")",
+                type: "post",
+                dataType: "JSON",
+                data: mail,
+                success: function (res) {
+                    console.log(res)
+                    if (res.IsSuccess) {
+
+                    } else { }
+                    for (var i = 0; i < 5; i++) {
+                        $("form")[i].reset()
+                    }
+
+                },
+                error: function () {
+
+                }
+            });
+
+            return false;
+        })
+    </script>
+}
+

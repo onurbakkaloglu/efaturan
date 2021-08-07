@@ -1,0 +1,234 @@
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\eFaturanMVC.dll.config
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\eFaturanMVC.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\eFaturanMVC.pdb
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\csc.exe
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\csc.exe.config
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\csc.rsp
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\csi.exe
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\csi.exe.config
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\csi.rsp
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.AppContext.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Console.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\vbc.exe
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\vbc.exe.config
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\vbc.rsp
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Helpers.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Mvc.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Razor.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Razor.xml
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.xml
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Helpers.xml
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\System.Web.Mvc.xml
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.dll
+C:\Users\MONSTER\Desktop\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.pdb
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\eFaturanMVC.dll.config
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\eFaturanMVC.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\eFaturanMVC.pdb
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csc.exe
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csc.exe.config
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csc.rsp
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csi.exe
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csi.exe.config
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csi.rsp
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.AppContext.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Console.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\vbc.exe
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\vbc.exe.config
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\vbc.rsp
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Helpers.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Mvc.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Razor.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Razor.xml
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.xml
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Helpers.xml
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Mvc.xml
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.csprojAssemblyReference.cache
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.csproj.CoreCompileInputs.cache
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.csproj.CopyComplete
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.dll
+C:\Users\meteh\Desktop\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.pdb
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\eFaturanMVC.dll.config
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\eFaturanMVC.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\eFaturanMVC.pdb
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csc.exe
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csc.exe.config
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csc.rsp
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csi.exe
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csi.exe.config
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\csi.rsp
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.AppContext.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Console.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\vbc.exe
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\vbc.exe.config
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\vbc.rsp
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Helpers.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Mvc.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Razor.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Razor.xml
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.xml
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Helpers.xml
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\System.Web.Mvc.xml
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.csprojAssemblyReference.cache
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.csproj.CoreCompileInputs.cache
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.csproj.CopyComplete
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.dll
+C:\Users\meteh\Desktop\Yeni klasör (3)\efaturan\eFaturanMVC\eFaturanMVC\obj\Release\eFaturanMVC.pdb
